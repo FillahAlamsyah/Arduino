@@ -1,3 +1,5 @@
+//Elektronika Lanjut - Robot Obstacle Avoider
+// Check the simulation of this code and circuit at : https://youtu.be/tZnzQvBH3Lk
 //definisi pin
 const int pintrig = A0;
 const int pinecho = A1;
